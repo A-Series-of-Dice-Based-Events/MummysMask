@@ -1,0 +1,1 @@
+The following files are meant to be imported into Pathbuilder2e. All items and backgrounds for Mummy's Mask have been created, though some may require you to add on runes, apply custom buffs, give feats, and more for it to work as intended. 
